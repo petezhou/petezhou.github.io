@@ -1,0 +1,19 @@
+.text {
+  margin-top: 30%;
+}
+
+#linkedin-link {
+  color: #0e76a8
+}
+
+#email-link {
+  color: #c71610
+}
+
+#github-link {
+  color: #2ea44f
+}
+
+h1 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
